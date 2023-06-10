@@ -1,0 +1,51 @@
+[
+  {
+    "date": "Tonight",
+    "Statues": "Clear",
+    "Night": { "C": "20", "F": "68" },
+    "Day": { "C": "", "F": "" },
+    "ChanceOfPrecipitation": "0%"
+  },
+  {
+    "date": "Sunday",
+    "Statues": "Sunny",
+    "Night": { "C": "19", "F": "67" },
+    "Day": { "C": "34", "F": "93" },
+    "ChanceOfPrecipitation": "0%"
+  },
+  {
+    "date": "Monday",
+    "Statues": "MostlySunny",
+    "Night": { "C": "20", "F": "68" },
+    "Day": { "C": "36", "F": "96" },
+    "ChanceOfPrecipitation": "0%"
+  },
+  {
+    "date": "Tuesday",
+    "Statues": "Sunny",
+    "Night": { "C": "21", "F": "70" },
+    "Day": { "C": "36", "F": "97" },
+    "ChanceOfPrecipitation": "0%"
+  },
+  {
+    "date": "Wednesday",
+    "Statues": "Sunny",
+    "Night": { "C": "21", "F": "70" },
+    "Day": { "C": "36", "F": "98" },
+    "ChanceOfPrecipitation": "0%"
+  },
+  {
+    "date": "Thursday",
+    "Statues": "Sunny",
+    "Night": { "C": "19", "F": "66" },
+    "Day": { "C": "34", "F": "93" },
+    "ChanceOfPrecipitation": "0%"
+  },
+  {
+    "date": "Friday",
+    "Statues": "Sunny",
+    "Night": { "C": "18", "F": "65" },
+    "Day": { "C": "32", "F": "90" },
+    "ChanceOfPrecipitation": "0%"
+  }
+]
