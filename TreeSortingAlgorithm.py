@@ -1,5 +1,7 @@
 
 # https://github.com/Haj4li
+# Tree sorting is a sorting algorithm that works by building a binary search tree from the elements to be sorted,
+# and then traversing the tree in-order to obtain the sorted sequence.
 
 class Node:
     def __init__(self, value):
